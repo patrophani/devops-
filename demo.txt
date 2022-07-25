@@ -1,1 +1,21 @@
 activate windows
+please make this error 
+please check this once is not a error its not 
+error 
+find the soloution of the programme 
+
+cat >> demo.txt
+
+
+
+
+q
+q
+:q
+solve this error
+q
+:w
+wq
+q
+qs
+help
